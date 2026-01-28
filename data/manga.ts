@@ -10,16 +10,7 @@ export interface Manga {
 }
 
 export const mangaData: Manga[] = [
-  {
-    id: "solo-leveling",
-    title: "Solo Leveling",
-    type: "Manhwa",
-    moods: ["action", "heroic"],
-    tags: ["underdog", "power awakening"],
-    description: "From weakest to unstoppable.",
-    accentColor: "#7C3AED",
-    previewVideo: "/videos/preview-solo-leveling.mp4"
-  },
+
   {
     id: "chainsaw-man",
     title: "Chainsaw Man",
